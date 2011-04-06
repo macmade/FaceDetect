@@ -1,0 +1,12 @@
+# Package Information for pkg-config
+
+prefix=/Users/macmade/Documents/Brain/iOS-Development/FaceDetect/trunk/FaceDetect/OpenCV/build/iPhoneOS/../.././lib/iPhoneOS
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include/opencv
+
+Name: OpenCV
+Description: Intel(R) Open Source Computer Vision Library
+Version: 2.0.0
+Libs: -L${libdir} -lcv -lhighgui -lcvaux -lml -lcxcore
+Cflags: -I${includedir}
