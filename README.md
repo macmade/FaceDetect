@@ -17,9 +17,16 @@ You need to build it for your iOS device in order to test it.
 
 ### OpenCV port
 
-FaceDetect uses the [OpenCV port][2] provided by eosgarden (myself), and which is also [available on GitHub][3].
+FaceDetect uses the [OpenCV port][2] provided by Macmade (myself), and which is also [available on GitHub][3].
 
-### License
+Project Status
+--------------
+
+This project is no longer maintained.  
+It might not build on latest iOS versions, and might not be compatible with latest OpenCV versions.
+
+License
+-------
 
 FaceDetect is released under the terms of the [Boost][4] Software License - Version 1.0.
 
@@ -27,3 +34,14 @@ FaceDetect is released under the terms of the [Boost][4] Software License - Vers
 [2]: http://www.eosgarden.com/en/opensource/opencv-ios/ "OpenCV-iOS"
 [3]: https://github.com/macmade/OpenCV-iOS              "GitHub"
 [4]: http://www.boost.org/LICENSE_1_0.txt               "BOOST"
+
+Repository Infos
+----------------
+
+    Owner:			Jean-David Gadina - XS-Labs
+    Web:			www.xs-labs.com
+    Blog:			www.noxeos.com
+    Twitter:		@macmade
+    GitHub:			github.com/macmade
+    LinkedIn:		ch.linkedin.com/in/macmade/
+    StackOverflow:	stackoverflow.com/users/182676/macmade
