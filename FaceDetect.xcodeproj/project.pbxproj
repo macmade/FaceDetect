@@ -224,7 +224,7 @@
 		05D10EB312FED04E00A4ECA9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				ORGANIZATIONNAME = eosgarden;
+				ORGANIZATIONNAME = XS-Labs;
 			};
 			buildConfigurationList = 05D10EB612FED04E00A4ECA9 /* Build configuration list for PBXProject "FaceDetect" */;
 			compatibilityVersion = "Xcode 3.2";
